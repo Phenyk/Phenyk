@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate with CEH
-- 📫 How to reach me edikakali@outloo.com
+- 📫 How to reach me edikakali@outlook.com
 
 <!---
 Phenyk/Phenyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
